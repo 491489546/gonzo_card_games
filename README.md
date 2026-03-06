@@ -1,6 +1,6 @@
 # Gonzo Card Games
 
-Library to create virtualizations of card games with a standard deck 52 card deck(s).
+Library to create virtualizations of card games with a standard 52 card deck(s).
 
 ## Background
 
